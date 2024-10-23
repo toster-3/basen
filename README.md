@@ -2,7 +2,7 @@
 
 simple calculator from one base to another
 
-'''bash
+```bash
 $ basen 10 16 15
 f
-'''
+```
